@@ -64,7 +64,7 @@ organization-management/
 ---
 
 ## Requirements
-- Python 3.9+
+- Python 3.9+ or Python 3.12.7
 - MongoDB (local or URI-accessible)
 - pip dependencies: `fastapi`, `pydantic`, `pymongo`, `python-jose`, `passlib[bcrypt]`, `uvicorn`
 
